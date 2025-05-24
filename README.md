@@ -46,5 +46,4 @@
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a chat about tech!
 - Email: [jj775@cornell.edu](mailto:jj775@cornell.edu)
-- Phone: (949) 310-9893
 - Location: Irvine, CA / Ithaca, NY
