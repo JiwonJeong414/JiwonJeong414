@@ -8,7 +8,7 @@
 
 **Cornell University** | College of Arts & Sciences  
 *Bachelor of Arts in Computer Science, Minor in Artificial Intelligence*  
-*Expected May 2028*
+*Expected May 2027*
 
 ## 💻 Tech Stack
 
