@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-jj775@cornell.edu-D14836?style=flat&logo=gmail)](mailto:jj775@cornell.edu)
 
 ## 🎓 Education
- 
+  
 **Cornell University** | College of Arts & Sciences  
 *Bachelor of Arts in Computer Science, Minor in Artificial Intelligence*  
 *Expected May 2027*
