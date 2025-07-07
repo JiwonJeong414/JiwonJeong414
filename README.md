@@ -1,7 +1,7 @@
 # Hi there, I'm Jiwon Jeong 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-JiwonJeong414-181717?style=flat&logo=github)](https://github.com/JiwonJeong414)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiwon_Jeong-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jiwonjeong/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiwon_Jeong-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jiwonjeong414/)
 [![Email](https://img.shields.io/badge/Email-jj775@cornell.edu-D14836?style=flat&logo=gmail)](mailto:jj775@cornell.edu)
 
 ## 🎓 Education
