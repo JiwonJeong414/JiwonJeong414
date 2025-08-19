@@ -38,9 +38,6 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## 📊 GitHub Stats
-
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiwonJeong414&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiwonJeong414&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect!
